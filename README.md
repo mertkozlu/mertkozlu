@@ -1,4 +1,5 @@
- [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
+ [![MasterHead](https://as1.ftcdn.net/v2/jpg/04/30/14/66/1000_F_430146696_z2Vw0UZKK4hf23Ziow0lwuAbeBYqTQrI.jpg)
+)
  <h1 align="center">Hi 👋, I'm Mert Kozlu</h1>
 <h3 align="center">A Java developer from Türkiye</h3>
 
@@ -30,17 +31,5 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mertkozlu&" alt="mertkozlu" /></p>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mertkozlu/mertkozlu/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
 
 
