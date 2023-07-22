@@ -1,4 +1,4 @@
- [![MasterHead](https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif)
+ [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
  <h1 align="center">Hi 👋, I'm Mert Kozlu</h1>
 <h3 align="center">A passionate Java developer from Türkiye</h3>
 
@@ -20,18 +20,14 @@
 </p>
 
 
+
+[![](https://raw.githubusercontent.com/mertkozlu/mertkozlu/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/mertkozlu/mertkozlu/master/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mertkozlu/mertkozlu/master/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mertkozlu&show_icons=true&locale=en&layout=compact" alt="mertkozlu" /></p>
 
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mertkozlu&" alt="mertkozlu" /></p>
-
-
-
-
-
-
-
-[![](https://raw.githubusercontent.com/mertkozlu/mertkozlu/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/mertkozlu/mertkozlu/master/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mertkozlu/mertkozlu/master/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
