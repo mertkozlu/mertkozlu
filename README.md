@@ -1,5 +1,6 @@
-# Mert Kozlu
  [![MasterHead](https://d26pm0riky5t4b.cloudfront.net/image/file/8920a89a-9eef-4c46-9ad0-b12ce6fcacbb.jpg)
+ <h1 align="center">Hi 👋, I'm Mert Kozlu</h1>
+<h3 align="center">A passionate Java developer from Türkiye</h3>
 
 
 
