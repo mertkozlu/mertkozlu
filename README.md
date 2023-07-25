@@ -1,4 +1,4 @@
- [![MasterHead](https://hacks.mozilla.org/files/2015/12/animation4.gif)
+ [![MasterHead](https://camo.githubusercontent.com/f6a2c625bbd9c52c6847d8368066acb566beb36e08b157577a34d070d03078bf/68747470733a2f2f692e696d6775722e636f6d2f7051574937676e2e676966)
 
 
 <h1 align="center">Hi 👋, I'm Mert Kozlu</h1>
