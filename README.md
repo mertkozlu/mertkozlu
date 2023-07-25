@@ -1,4 +1,4 @@
- [![MasterHead](https://as1.ftcdn.net/v2/jpg/04/30/14/66/1000_F_430146696_z2Vw0UZKK4hf23Ziow0lwuAbeBYqTQrI.jpg)
+ [![MasterHead](https://hacks.mozilla.org/files/2015/12/animation4.gif)
 
 
 <h1 align="center">Hi 👋, I'm Mert Kozlu</h1>
