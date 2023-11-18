@@ -24,6 +24,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mertkozlu&show_icons=true&locale=en&layout=compact" alt="mertkozlu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mertkozlu&" alt="mertkozlu" /></p>
-
-
-![snake gif](https://github.com/mertkozlu/mertkozlu/blob/output/github-contribution-grid-snake.gif)
